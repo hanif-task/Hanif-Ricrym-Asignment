@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/MapUtama.umap",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Maps/MapUtama.umap",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/BPWiraCharacter.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/GMWira.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Materials/Alpha_Body_MAT.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Materials/Alpha_Joints_MAT.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Animations/Attack_Anim.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Animations/Roundhouse_Kick.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Y_Bot.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Y_Bot_PhysicsAsset.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Y_Bot_Skeleton.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Animations/AttackNotify/SwordAttackNotify.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Wira/Model/Animations/AttackNotify/EndAttack.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Dummy/BPDummyCharacter.uasset",
+				"C:/My Files/Unreal Engine 5/HanifRPGTask/Content/Maps/MapKedua.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HanifRPGTask.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HanifRPGTask.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HanifRPGTaskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HanifRPGTask">
+      <UniqueIdentifier>{F2BE33CD-D186-3005-B300-7ACFF4F97485}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HanifRPGTask\HanifRPGTask.Build.cs">
+      <Filter>Source\HanifRPGTask</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HanifRPGTask\HanifRPGTask.cpp">
+      <Filter>Source\HanifRPGTask</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HanifRPGTask\HanifRPGTask.h">
+      <Filter>Source\HanifRPGTask</Filter>
+    </ClCompile>
+    <Filter Include="Source\HanifRPGTask\Components">
+      <UniqueIdentifier>{3E7EB708-9081-307A-A45D-CF18AAD78480}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HanifRPGTask\Components\HealthComponent.cpp">
+      <Filter>Source\HanifRPGTask\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HanifRPGTask\Components\HealthComponent.h">
+      <Filter>Source\HanifRPGTask\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\HanifRPGTask\Wira">
+      <UniqueIdentifier>{FB193869-7F7C-3C47-9116-DD2ADB13ECBB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HanifRPGTask\Wira\WiraCharacter.cpp">
+      <Filter>Source\HanifRPGTask\Wira</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HanifRPGTask\Wira\WiraCharacter.h">
+      <Filter>Source\HanifRPGTask\Wira</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

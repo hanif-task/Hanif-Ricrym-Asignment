@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\My Files\\Unreal Engine 5\\HanifRPGTask\\Source\\HanifRPGTask\\HanifRPGTask.Build.cs",
+		"C:\\My Files\\Unreal Engine 5\\HanifRPGTask\\Source\\HanifRPGTask.Target.cs",
+		"C:\\My Files\\Unreal Engine 5\\HanifRPGTask\\Source\\HanifRPGTaskEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

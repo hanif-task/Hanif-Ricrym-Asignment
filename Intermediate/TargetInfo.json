@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HanifRPGTask",
+			"Path": "..\\Source\\HanifRPGTask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HanifRPGTaskEditor",
+			"Path": "..\\Source\\HanifRPGTaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
